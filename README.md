@@ -1,6 +1,6 @@
 # Random-Forest-Model-for-Isolation-Source-Prediction-of-Staphylococcus-aureus-from-A-Dairy-Farm
 
-# Binary Source Prediction (Udder vs Other)
+# Binary Source Prediction (Udder vs. Other)
 
 This repository contains R scripts for predicting the isolation source (*udder* vs. *other*) of *Staphylococcus aureus* isolates from a dairy farm in Texas, United States using a random forest model trained on pan-genome gene presence/absence data.
 
