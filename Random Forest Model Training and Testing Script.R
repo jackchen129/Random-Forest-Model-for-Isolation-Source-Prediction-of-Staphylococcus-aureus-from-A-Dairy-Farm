@@ -1,6 +1,6 @@
 # ================================================================
 # 01_main_workflow.R
-# Binary Source Prediction (Udder vs Other) using Random Forests
+# Binary Source Prediction (Udder vs Other) using a Random Forest Model
 # ================================================================
 
 if (!require("pacman")) install.packages("pacman")
